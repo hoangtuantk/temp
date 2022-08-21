@@ -1,3 +1,4 @@
+<script>
 var acc = document.getElementsByClassName("accordion1");
 var i;
 
@@ -12,3 +13,4 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
+</script>
